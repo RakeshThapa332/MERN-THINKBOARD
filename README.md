@@ -45,3 +45,10 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## 📸 Screenshots
+
+![Home Page](./screenshots/home-board.png) <br>
+![Default Page](./screenshots/default-board.png)<br>
+![Create Page](./screenshots/create-board.png)
+
